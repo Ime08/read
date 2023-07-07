@@ -1,6 +1,6 @@
 ---
-title: "read"
-image: "Images/pic.jpg"
+title: "Read"
+image: "Images/Images/2.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: 'https://twitter.com/R_Girls_School target="_blank"'
@@ -14,3 +14,6 @@ site: distill::distill_website
 ---
  
 ## Intro
+Do you enjoy reading? This is the website for you, here you can find book recommendations and new release information. Have fun browsing on this page!
+
+
